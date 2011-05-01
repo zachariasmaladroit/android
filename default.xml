@@ -260,7 +260,7 @@
 
   <project path="vendor/cyanogen" name="teamhacksung/android_vendor_cyanogen" remote="github" />
   <project path="vendor/samsung/common" name="teamhacksung/android_vendor_samsung_common" remote="github" />
-  <project path="kernel/samsung/2.6.35" name="zachariasmaladroit/android_kernel_samsung" remote="github" revision="android-samsung-2.6.35" />
+  <project path="kernel/samsung/2.6.35" name="zachariasmaladroit/platypus-kernel_quorra" remote="github" revision="android-samsung-2.6.35" />
 
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" revision="refs/heads/master" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="themes-platform-vendor-tmobile-libs-com.tmobile.themes" remote="themes" revision="refs/heads/master" />
